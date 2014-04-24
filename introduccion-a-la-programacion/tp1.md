@@ -88,6 +88,7 @@ PROCESO Ganar al tic tac toe
         
     HASTAQUE Alguno de los jugadores consiga posicionar 3 en linea
 FINPROCESO
+// Ayuda: http://www.wikihow.com/Win-at-Tic-Tac-Toe
 
 4)La batalla naval
 El juego de la batalla naval, ¿se puede aplicar un algoritmo para jugar? Antes de escribir un algoritmo, plantear una estrategia.
